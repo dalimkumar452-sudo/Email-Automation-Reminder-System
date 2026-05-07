@@ -1,0 +1,14 @@
+# Virtual Environments (Do not upload heavy libraries)
+venv/
+.venv/
+
+# Secrets & Passwords (NEVER upload to GitHub)
+.env
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+
+# System Logs
+logs/

@@ -1,0 +1,7 @@
+Timestamp,Name,Email,Subject,Status
+2026-05-05 10:15:00,Aman Sharma,aman.test@example.com,Upcoming Project Discussion,Sent
+2026-05-05 10:20:00,Rahul Dev,rahul.test@example.com,GitHub Review Session,Sent
+2026-05-06 14:30:00,Aman Sharma,aman.test@example.com,Meeting Reminder,Sent
+2026-05-06 14:35:00,Priya Das,priya.test@example.com,Invoice Overdue,Failed
+2026-05-07 09:00:00,Rahul Dev,rahul.test@example.com,Weekly Update,Sent
+2026-05-07 09:15:00,Aman Sharma,aman.test@example.com,System Alert,Sent
